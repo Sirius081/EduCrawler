@@ -1,0 +1,13 @@
+////////////////////////
+// Information Record //
+//      myCrawlerV3.0 //
+////////////////////////
+       1 Time: 2015-05-14 16:36:06 Info: Edu Crawler
+       2 Time: 2015-05-14 16:36:06 Info: Start Crawl edu URL: http://xuexiao.eol.cn/yep_school/school.s?cengci=幼儿园_cengci&local1=all
+       3 Time: 2015-05-14 16:37:15 Info: Start Crawl edu URL: http://xuexiao.eol.cn/yep_school/school.s?cengci=中学_cengci&local1=all
+       4 Time: 2015-05-14 16:38:22 Info: Start Crawl edu URL: http://xuexiao.eol.cn/yep_school/school.s?cengci=小学_cengci&local1=all
+       5 Time: 2015-05-14 16:39:32 Info: Start Crawl edu URL: http://xuexiao.eol.cn/yep_school/school.s?cengci=大学_cengci&local1=all
+       6 Time: 2015-05-14 16:40:38 Info: Start Crawl edu URL: http://xuexiao.eol.cn/yep_school/school.s?cengci=职业学校_cengci
+Total   count: 6
+Success count:6
+Error   count: 0

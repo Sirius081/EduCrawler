@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mysql-connector-java-5.1.25-bin.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/GanSuEdu/Crawler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/GanSuEdu/ListCrawlJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/GanSuEdu/PageParserJob.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/HuBeiEdu/ListCrawlJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/JiLinEdu/ListCrawlJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/JiangSuEdu/ListCrawlJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ShangHaiMenHu/ListCrawlJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/XinHuaEdu/PageParserJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/YunNanEdu/ListCrawlJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/YunNanEdu/PageCrawlJob.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/YunNanEdu/PageParserJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/general/JdbcPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/general/PageDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ifeng/PageCrawlJob.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/qq/Crawler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/sina/PageCrawlJob.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/snedu/PageCrawlJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/snedu/PageParserJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/teachercn/ListCrawlJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/teachercn/PageCrawlJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/teachercn/PageParserJob.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/zhihu/ListCrawlJob.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/zhihu/PageParserJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/zhiwang" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

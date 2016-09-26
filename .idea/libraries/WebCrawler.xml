@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WebCrawler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/WebCrawler/WebCrawler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
